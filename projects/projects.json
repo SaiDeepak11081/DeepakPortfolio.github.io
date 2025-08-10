@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Netflix Exploratory Data Analysis",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "netflix-image",
+    "category": "Python",
+    "links": {
+      "view": "https://github.com/SaiDeepak11081/netflix-analysis",
+      "code": "https://github.com/SaiDeepak11081/netflix-analysis/blob/main/Netflix%20Pandas%20Project%20(1).ipynb"
+    }
+  },
+  {
+    "name": "Pizza Hut Sales Analysis",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "pizza-hut",
+    "category": "SQL",
+    "links": {
+      "view": "https://github.com/SaiDeepak11081/Pizza-Hut-Sales-Analysis",
+      "code": "https://github.com/SaiDeepak11081/Pizza-Hut-Sales-Analysis/blob/main/Pizza%20Hut%20Sql%20Analysis.sql"
+    }
+  },
+  {
+    "name": "Covid 19 Data Exploration",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "covid-image",
+    "category": "SQL",
+    "links": {
+      "view": "https://github.com/SaiDeepak11081/Covid19-Data-Exploration-Project",
+      "code": "https://github.com/SaiDeepak11081/Covid19-Data-Exploration-Project/blob/main/Covid%20Deaths%20Data%20Exploration%20Portfolio%20Project%20SQL.sql"
+    }
+  },
+  {
+    "name": "Airbnb Open Data",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "airbnb-logo",
+    "category": "Data-Visualization",
+    "links": {
+      "view": "https://public.tableau.com/app/profile/sai.deepak3232/viz/AirbnbNYCDashboard_17545894876070/Dashboard1",
+      "code": "https://github.com/SaiDeepak11081/airbnb-nyc-tableau-dashboard"
+    }
+  },
+  {
+    "name": "Bike Sales Dashboard",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "excel-logo",
+    "category": "Data-Visualization",
+    "links": {
+      "view": "https://docs.google.com/spreadsheets/d/1NrPJDtszBqP05_XdocVf1VkHBHa66JC-SHY2IjDDP5Y/view?gid=1948911978#gid=1948911978",
+      "code": "https://github.com/SaiDeepak11081/excel-bike-sales-dashboard"
+    }
+  },
+  {
+    "name": "Nashville Housing Data Cleaning",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "housing-image",
+    "category": "SQL",
+    "links": {
+      "view": "https://github.com/SaiDeepak11081/Nashville-Housing-Data-Cleaning-",
+      "code": "https://github.com/SaiDeepak11081/Nashville-Housing-Data-Cleaning-/blob/main/Nashville%20Housing%20Portfolio.sql"
+
+    }
+  }
+  
+]
